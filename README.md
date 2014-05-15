@@ -1,4 +1,4 @@
-# pangu.node [![Build Status](https://secure.travis-ci.org/huei90/pangunode.png?branch=master)](http://travis-ci.org/huei90/pangunode)
+# pangu.node [![Build Status](https://secure.travis-ci.org/huei90/pangu.node.png?branch=master)](http://travis-ci.org/huei90/pangu.node)
 
 Spacing texts in Node.js!
 
