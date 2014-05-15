@@ -15,7 +15,8 @@
     "url": "https://github.com/huei90"
   },
   "scripts": {
-    "test": "grunt"
+    "test": "grunt",
+    "browser": "browserify pangunode.js > browser.js"
   },
   "license": "MIT",
   "keywords":[
