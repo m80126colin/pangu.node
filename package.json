@@ -1,0 +1,36 @@
+{
+  "name": "pangunode",
+  "version": "0.0.0",
+  "description": "Spacing texts in Node.js!",
+  "main": "pangunode.js",
+  "homepage": "https://github.com/huei90/pangu.node",
+  "bugs": "https://github.com/huei90/pangunode/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huei90/pangunode"
+  },
+  "author": {
+    "name": "Huei Tan",
+    "email": "huei90@gmail.com",
+    "url": "https://github.com/huei90"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "license": "MIT",
+  "keywords":[
+    "pangunode",
+    "spacing",
+    "spacing texts"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^0.4.0",
+    "time-grunt": "^0.3.1",
+    "jshint-stylish": "^0.2.0"
+  }
+}
