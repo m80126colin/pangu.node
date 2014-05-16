@@ -1,13 +1,13 @@
 {
   "name": "pangunode",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Spacing texts in Node.js!",
   "main": "pangunode.js",
   "homepage": "https://github.com/huei90/pangu.node",
-  "bugs": "https://github.com/huei90/pangunode/issues",
+  "bugs": "https://github.com/huei90/pangu.node/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/huei90/pangunode"
+    "url": "https://github.com/huei90/pangu.node"
   },
   "author": {
     "name": "Huei Tan",

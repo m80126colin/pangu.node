@@ -2,7 +2,7 @@
   "name": "pangunode",
   "repo": "https://github.com/huei90/pangu.node",
   "description": "Spacing texts in Node.js!",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "keywords": [
     "pangunode"
   ],
